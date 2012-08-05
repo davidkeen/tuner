@@ -1,0 +1,12 @@
+J2MEUnitTestClasses: net.sharedmemory.tuner.NoteTest
+MIDlet-1: TunerMIDlet,,net.sharedmemory.tuner.TunerMIDlet
+MIDlet-2: ToneMidlet, ,net.sharedmemory.tuner.ToneMIDlet
+MIDlet-3: TestRunner, , j2meunit.midletui.TestRunner
+MIDlet-4: MetronomeMIDlet, , net.sharedmemory.tuner.MetronomeMIDlet
+MIDlet-Jar-Size: 58047
+MIDlet-Jar-URL: tuner.jar
+MIDlet-Name: Tuner
+MIDlet-Vendor: David Keen
+MIDlet-Version: 0.3
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
